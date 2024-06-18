@@ -53,7 +53,7 @@ To use these automation scripts effectively, follow these steps:
 
    ```sh
    git clone https://github.com/rgrit/ansible-playbooks.git
-   cd your-repository
+   cd ansible-playbooks
    ```
 
 2. **Edit `hosts.ini`:**
