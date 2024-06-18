@@ -1,5 +1,3 @@
-# ansible-playbooks
-Certainly! Here's a generic README template for your GitHub repository focusing on automation scripts:
 
 ---
 
