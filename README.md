@@ -85,4 +85,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-Feel free to customize the content further based on your specific environment, tools, and processes. This README provides a clear introduction to your automation scripts, instructions for usage, and guidelines for contributions, making it easier for others (including your team members) to understand and utilize the scripts effectively.
