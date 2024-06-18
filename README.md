@@ -52,7 +52,7 @@ To use these automation scripts effectively, follow these steps:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/ansible-playbooks.git
+   git clone https://github.com/rgrit/ansible-playbooks.git
    cd your-repository
    ```
 
