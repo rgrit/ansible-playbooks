@@ -54,7 +54,7 @@ To use these automation scripts effectively, follow these steps:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/yourusername/ansible-playbooks.git
    cd your-repository
    ```
 
